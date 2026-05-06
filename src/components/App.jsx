@@ -1,7 +1,7 @@
 import blogData from "../data/blog";
 import Header from "./Header";
 import About from "./About";
-import ArticleList from "./Articlelist";
+import ArticleList from "./ArticleList";
 function App() {
   return (
     <div className="App">
